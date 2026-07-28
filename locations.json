@@ -22,7 +22,7 @@
     "contact": "Kontakt über cyprusvillaweddings.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:31.855729+00:00"
+    "last_scraped": "2026-07-28T19:12:28.013556+00:00"
   },
   {
     "id": "wedding-packages-paphos-peyia",
@@ -47,7 +47,7 @@
     "contact": "Kontakt über cyprusvillaweddings.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:31.860415+00:00"
+    "last_scraped": "2026-07-28T19:12:28.018410+00:00"
   },
   {
     "id": "bespoke-weddings-paphos-peyia",
@@ -72,7 +72,7 @@
     "contact": "Kontakt über cyprusvillaweddings.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:31.865088+00:00"
+    "last_scraped": "2026-07-28T19:12:28.023399+00:00"
   },
   {
     "id": "our-couples-paphos-peyia",
@@ -97,7 +97,7 @@
     "contact": "Kontakt über cyprusvillaweddings.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:31.869492+00:00"
+    "last_scraped": "2026-07-28T19:12:28.028011+00:00"
   },
   {
     "id": "villa-euphoria-luxury-8-bedroom-villa-with-stunning-views-over-the-mediterranean-sea-paphos-peyia",
@@ -122,7 +122,7 @@
     "contact": "Kontakt über cyprusvillaweddings.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:31.879055+00:00"
+    "last_scraped": "2026-07-28T19:12:28.038380+00:00"
   },
   {
     "id": "panorama-villa-luxury-villa-with-amazing-views-ideal-for-weddings-six-bedrooms-sleeps-up-to-15-13-adults-2-children-paphos-peyia",
@@ -147,7 +147,7 @@
     "contact": "Kontakt über cyprusvillaweddings.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:31.883469+00:00"
+    "last_scraped": "2026-07-28T19:12:28.043262+00:00"
   },
   {
     "id": "coral-hills-villa-coral-hills-villa-is-a-one-day-hire-villa-for-exclusive-weddings-with-complete-privacy-paphos-peyia",
@@ -172,7 +172,7 @@
     "contact": "Kontakt über cyprusvillaweddings.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:31.887919+00:00"
+    "last_scraped": "2026-07-28T19:12:28.047869+00:00"
   },
   {
     "id": "villa-avyana-a-spectacular-luxury-villa-of-5-bedrooms-completely-private-ideal-for-weddings-paphos-peyia",
@@ -197,7 +197,7 @@
     "contact": "Kontakt über cyprusvillaweddings.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:31.892849+00:00"
+    "last_scraped": "2026-07-28T19:12:28.053096+00:00"
   },
   {
     "id": "oceania-villa-weddings-cyprus-super-modern-luxury-villa-sleeps-up-to-16-14-adults-2-children-7-bedrooms-4-bathrooms-infinity-pool-amazing-views-paphos-peyia",
@@ -222,7 +222,7 @@
     "contact": "Kontakt über cyprusvillaweddings.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:31.897300+00:00"
+    "last_scraped": "2026-07-28T19:12:28.057898+00:00"
   },
   {
     "id": "oceanos-beach-villa-right-on-the-sea-front-ideal-for-a-beach-wedding-modern-luxury-villa-sleeps-up-to-12-people-paphos-peyia",
@@ -247,57 +247,7 @@
     "contact": "Kontakt über cyprusvillaweddings.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:31.901724+00:00"
-  },
-  {
-    "id": "www-cyprusvillaweddings-com-paphos-peyia",
-    "name": "www.cyprusvillaweddings.com",
-    "region": "Paphos / Peyia",
-    "lat": null,
-    "lng": null,
-    "source_url": "http://www.cyprusvillaweddings.com",
-    "source_domain": "cyprusvillaweddings.com",
-    "sea_view": null,
-    "mountain_view": null,
-    "max_guests": null,
-    "bedrooms": null,
-    "type": "rent",
-    "event_policy": "unknown",
-    "event_policy_details": null,
-    "curfew": null,
-    "price_range": null,
-    "price_per_night_eur": null,
-    "features": [],
-    "description_snippet": null,
-    "contact": "Kontakt über cyprusvillaweddings.com",
-    "image_url": null,
-    "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:31.917703+00:00"
-  },
-  {
-    "id": "cyprus-villa-weddings-paphos-peyia",
-    "name": "CYPRUS VILLA WEDDINGS",
-    "region": "Paphos / Peyia",
-    "lat": null,
-    "lng": null,
-    "source_url": "https://www.cyprusvillaweddings.com",
-    "source_domain": "cyprusvillaweddings.com",
-    "sea_view": null,
-    "mountain_view": null,
-    "max_guests": null,
-    "bedrooms": null,
-    "type": "rent",
-    "event_policy": "unknown",
-    "event_policy_details": null,
-    "curfew": null,
-    "price_range": null,
-    "price_per_night_eur": null,
-    "features": [],
-    "description_snippet": null,
-    "contact": "Kontakt über cyprusvillaweddings.com",
-    "image_url": null,
-    "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:31.922044+00:00"
+    "last_scraped": "2026-07-28T19:12:28.062810+00:00"
   },
   {
     "id": "award-tala",
@@ -322,7 +272,7 @@
     "contact": "Kontakt über lchateau.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:34.714030+00:00"
+    "last_scraped": "2026-07-28T19:12:30.879232+00:00"
   },
   {
     "id": "danaos-luxury-sea-view-townhouse-with-pool-paphos",
@@ -347,7 +297,7 @@
     "contact": "Kontakt über Booking.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:39.873009+00:00"
+    "last_scraped": "2026-07-28T19:12:36.110638+00:00"
   },
   {
     "id": "seaside-sun-kissed-house-with-pool-in-tourist-area-paphos",
@@ -372,7 +322,7 @@
     "contact": "Kontakt über Booking.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:39.902437+00:00"
+    "last_scraped": "2026-07-28T19:12:36.139103+00:00"
   },
   {
     "id": "est-a-melina-s-summer-townhouse-paphos",
@@ -397,7 +347,7 @@
     "contact": "Kontakt über Booking.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:39.919197+00:00"
+    "last_scraped": "2026-07-28T19:12:36.156911+00:00"
   },
   {
     "id": "holiday-villas-in-cyprus-philippos-villa-5-paphos",
@@ -422,7 +372,7 @@
     "contact": "Kontakt über Booking.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:39.932499+00:00"
+    "last_scraped": "2026-07-28T19:12:36.179361+00:00"
   },
   {
     "id": "css-cheerful-smart-superior-2bd-townhouse-limnaria-gardens-paphos",
@@ -447,7 +397,7 @@
     "contact": "Kontakt über Booking.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:39.948656+00:00"
+    "last_scraped": "2026-07-28T19:12:36.194323+00:00"
   },
   {
     "id": "kings-beach-townhouse-paphos",
@@ -472,7 +422,7 @@
     "contact": "Kontakt über Booking.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:39.964552+00:00"
+    "last_scraped": "2026-07-28T19:12:36.208382+00:00"
   },
   {
     "id": "tedy-s-townhouse-margarita-gardens-paphos",
@@ -497,7 +447,7 @@
     "contact": "Kontakt über Booking.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:39.976448+00:00"
+    "last_scraped": "2026-07-28T19:12:36.225631+00:00"
   },
   {
     "id": "maya-paphos",
@@ -522,7 +472,7 @@
     "contact": "Kontakt über Booking.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:40.013735+00:00"
+    "last_scraped": "2026-07-28T19:12:36.283626+00:00"
   },
   {
     "id": "aphrodite-s-gardens-entire-townhouse-400-m-to-the-sea-paphos",
@@ -547,7 +497,7 @@
     "contact": "Kontakt über Booking.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:40.026374+00:00"
+    "last_scraped": "2026-07-28T19:12:36.301912+00:00"
   },
   {
     "id": "nerina-luxury-villa-01-paphos",
@@ -572,7 +522,7 @@
     "contact": "Kontakt über Booking.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:40.041174+00:00"
+    "last_scraped": "2026-07-28T19:12:36.314978+00:00"
   },
   {
     "id": "3-bdr-house-ambrosia-paphos",
@@ -597,7 +547,7 @@
     "contact": "Kontakt über Booking.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:40.056899+00:00"
+    "last_scraped": "2026-07-28T19:12:36.329895+00:00"
   },
   {
     "id": "2bd-garden-apartment-paphos",
@@ -622,7 +572,7 @@
     "contact": "Kontakt über Booking.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:40.070609+00:00"
+    "last_scraped": "2026-07-28T19:12:36.349978+00:00"
   },
   {
     "id": "palm-at-venus-beach-paphos",
@@ -647,7 +597,7 @@
     "contact": "Kontakt über Booking.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:40.092731+00:00"
+    "last_scraped": "2026-07-28T19:12:36.363504+00:00"
   },
   {
     "id": "blue-horizon-two-storey-house-just-400-m-from-the-beach-paphos",
@@ -672,7 +622,7 @@
     "contact": "Kontakt über Booking.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:40.105525+00:00"
+    "last_scraped": "2026-07-28T19:12:36.378128+00:00"
   },
   {
     "id": "lemonia-modern-maisonette-fresh-3-bdr-family-paphos",
@@ -697,7 +647,7 @@
     "contact": "Kontakt über Booking.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:40.119597+00:00"
+    "last_scraped": "2026-07-28T19:12:36.390934+00:00"
   },
   {
     "id": "nephele-stylish-2bd-townhouse-in-kato-paphos-paphos",
@@ -722,7 +672,7 @@
     "contact": "Kontakt über Booking.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:40.133054+00:00"
+    "last_scraped": "2026-07-28T19:12:36.404693+00:00"
   },
   {
     "id": "diana-townhouse-5-paphos",
@@ -747,7 +697,7 @@
     "contact": "Kontakt über Booking.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:40.145957+00:00"
+    "last_scraped": "2026-07-28T19:12:36.420766+00:00"
   },
   {
     "id": "est-a-olympia-s-skyview-townhouse-with-a-pool-paphos",
@@ -772,7 +722,7 @@
     "contact": "Kontakt über Booking.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:40.164067+00:00"
+    "last_scraped": "2026-07-28T19:12:36.435727+00:00"
   },
   {
     "id": "regina-gardens-spacious-3-bed-2-bath-maisonette-paphos",
@@ -797,7 +747,7 @@
     "contact": "Kontakt über Booking.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:40.177639+00:00"
+    "last_scraped": "2026-07-28T19:12:36.451760+00:00"
   },
   {
     "id": "all-seasons-boutique-townhouse-paphos",
@@ -822,7 +772,7 @@
     "contact": "Kontakt über Booking.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:40.192421+00:00"
+    "last_scraped": "2026-07-28T19:12:36.465293+00:00"
   },
   {
     "id": "casa-romy-3-bedroom-townhouse-direkt-am-pool-paphos",
@@ -847,7 +797,7 @@
     "contact": "Kontakt über Booking.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:40.211133+00:00"
+    "last_scraped": "2026-07-28T19:12:36.480389+00:00"
   },
   {
     "id": "natalia-s-townhouse-margarita-gardens-003-paphos",
@@ -872,7 +822,7 @@
     "contact": "Kontakt über Booking.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:40.223808+00:00"
+    "last_scraped": "2026-07-28T19:12:36.493516+00:00"
   },
   {
     "id": "casa-del-sol-iris-village-universal-paphos-2bd-paphos",
@@ -897,7 +847,7 @@
     "contact": "Kontakt über Booking.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:40.236140+00:00"
+    "last_scraped": "2026-07-28T19:12:36.515099+00:00"
   },
   {
     "id": "h-o-sea-view-beachfront-apartment-paphos",
@@ -922,7 +872,7 @@
     "contact": "Kontakt über Booking.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:40.249604+00:00"
+    "last_scraped": "2026-07-28T19:12:36.528578+00:00"
   },
   {
     "id": "aeon-residences-in-the-heart-of-paphos-paphos",
@@ -947,7 +897,7 @@
     "contact": "Kontakt über Booking.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:40.261587+00:00"
+    "last_scraped": "2026-07-28T19:12:36.541591+00:00"
   },
   {
     "id": "the-summer-haven-polis-latchi",
@@ -972,7 +922,7 @@
     "contact": "Kontakt über Booking.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:44.756089+00:00"
+    "last_scraped": "2026-07-28T19:12:41.571122+00:00"
   },
   {
     "id": "aura-beachfront-residence-by-nomads-polis-latchi",
@@ -997,7 +947,7 @@
     "contact": "Kontakt über Booking.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:44.770393+00:00"
+    "last_scraped": "2026-07-28T19:12:41.593027+00:00"
   },
   {
     "id": "simona-stone-house-polis-latchi",
@@ -1022,7 +972,7 @@
     "contact": "Kontakt über Booking.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:44.782169+00:00"
+    "last_scraped": "2026-07-28T19:12:41.610050+00:00"
   },
   {
     "id": "paradeisos-is-a-stunning-2-bed-house-in-polis-polis-latchi",
@@ -1047,7 +997,7 @@
     "contact": "Kontakt über Booking.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:44.794780+00:00"
+    "last_scraped": "2026-07-28T19:12:41.627565+00:00"
   },
   {
     "id": "kyma-ii-beachfront-residence-polis-latchi",
@@ -1072,7 +1022,7 @@
     "contact": "Kontakt über Booking.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:44.806933+00:00"
+    "last_scraped": "2026-07-28T19:12:41.652940+00:00"
   },
   {
     "id": "polis-gardens-polis-latchi",
@@ -1097,7 +1047,7 @@
     "contact": "Kontakt über Booking.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:44.820498+00:00"
+    "last_scraped": "2026-07-28T19:12:41.670856+00:00"
   },
   {
     "id": "siblings-nest-1-polis-latchi",
@@ -1122,7 +1072,7 @@
     "contact": "Kontakt über Booking.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:44.833223+00:00"
+    "last_scraped": "2026-07-28T19:12:41.687586+00:00"
   },
   {
     "id": "kohili-seaside-residence-polis-latchi",
@@ -1147,7 +1097,7 @@
     "contact": "Kontakt über Booking.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:44.845532+00:00"
+    "last_scraped": "2026-07-28T19:12:41.715618+00:00"
   },
   {
     "id": "kyma-i-beachfront-residence-at-latsi-polis-latchi",
@@ -1172,7 +1122,7 @@
     "contact": "Kontakt über Booking.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:44.858153+00:00"
+    "last_scraped": "2026-07-28T19:12:41.742577+00:00"
   },
   {
     "id": "sunset-view-polis-latchi",
@@ -1197,7 +1147,7 @@
     "contact": "Kontakt über Booking.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:44.870131+00:00"
+    "last_scraped": "2026-07-28T19:12:41.763743+00:00"
   },
   {
     "id": "special-launch-price-breathtaking-sea-view-2br-villa-perfect-for-families-polis-latchi",
@@ -1222,7 +1172,7 @@
     "contact": "Kontakt über Booking.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:44.882034+00:00"
+    "last_scraped": "2026-07-28T19:12:41.786087+00:00"
   },
   {
     "id": "vasilion-agrotourism-polis-latchi",
@@ -1247,7 +1197,7 @@
     "contact": "Kontakt über Booking.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:44.894465+00:00"
+    "last_scraped": "2026-07-28T19:12:41.808747+00:00"
   },
   {
     "id": "cyprus-2-bedrooms-both-ensuite-pool-patios-wifi-polis-latchi",
@@ -1272,7 +1222,7 @@
     "contact": "Kontakt über Booking.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:44.906075+00:00"
+    "last_scraped": "2026-07-28T19:12:41.829881+00:00"
   },
   {
     "id": "2-bed-house-sleeps-4-pool-garden-parking-polis-latchi",
@@ -1297,7 +1247,7 @@
     "contact": "Kontakt über Booking.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:44.918465+00:00"
+    "last_scraped": "2026-07-28T19:12:41.847914+00:00"
   },
   {
     "id": "cyprus-2-beds-ensuite-pool-patio-wifi-parking-polis-latchi",
@@ -1322,7 +1272,7 @@
     "contact": "Kontakt über Booking.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:44.930319+00:00"
+    "last_scraped": "2026-07-28T19:12:41.864931+00:00"
   },
   {
     "id": "villa-lachi-polis-latchi",
@@ -1347,7 +1297,7 @@
     "contact": "Kontakt über Booking.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:44.941956+00:00"
+    "last_scraped": "2026-07-28T19:12:41.881825+00:00"
   },
   {
     "id": "merope-irena-3-polis-latchi",
@@ -1372,7 +1322,7 @@
     "contact": "Kontakt über Booking.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:44.953436+00:00"
+    "last_scraped": "2026-07-28T19:12:41.902023+00:00"
   },
   {
     "id": "spitaki-polis-latchi",
@@ -1397,7 +1347,7 @@
     "contact": "Kontakt über Booking.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:44.965785+00:00"
+    "last_scraped": "2026-07-28T19:12:41.919427+00:00"
   },
   {
     "id": "the-goat-house-polis-latchi",
@@ -1422,7 +1372,7 @@
     "contact": "Kontakt über Booking.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:44.978401+00:00"
+    "last_scraped": "2026-07-28T19:12:41.935575+00:00"
   },
   {
     "id": "cyprus-townhouse-pool-patio-aircon-free-parking-polis-latchi",
@@ -1447,7 +1397,7 @@
     "contact": "Kontakt über Booking.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:44.989822+00:00"
+    "last_scraped": "2026-07-28T19:12:41.955580+00:00"
   },
   {
     "id": "villa-palm-1-polis-latchi",
@@ -1472,7 +1422,7 @@
     "contact": "Kontakt über Booking.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:45.001774+00:00"
+    "last_scraped": "2026-07-28T19:12:41.976135+00:00"
   },
   {
     "id": "villa-palm-3-polis-latchi",
@@ -1497,7 +1447,7 @@
     "contact": "Kontakt über Booking.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:45.013561+00:00"
+    "last_scraped": "2026-07-28T19:12:42.005267+00:00"
   },
   {
     "id": "eros-maisonette-in-latchi-area-just-700-meters-or-one-minute-drive-from-polis-municipal-beach-polis-latchi",
@@ -1522,7 +1472,7 @@
     "contact": "Kontakt über Booking.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:45.025412+00:00"
+    "last_scraped": "2026-07-28T19:12:42.022028+00:00"
   },
   {
     "id": "seaview-villa-mia-polis-latchi",
@@ -1547,7 +1497,7 @@
     "contact": "Kontakt über Booking.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:45.038850+00:00"
+    "last_scraped": "2026-07-28T19:12:42.041060+00:00"
   },
   {
     "id": "villa-palm-2-polis-latchi",
@@ -1572,7 +1522,7 @@
     "contact": "Kontakt über Booking.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:45.050287+00:00"
+    "last_scraped": "2026-07-28T19:12:42.059554+00:00"
   },
   {
     "id": "stasinou-52-limassol",
@@ -1597,7 +1547,7 @@
     "contact": "Kontakt über Booking.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:49.642205+00:00"
+    "last_scraped": "2026-07-28T19:12:46.628620+00:00"
   },
   {
     "id": "atelier-residences-by-sweet-keys-limassol",
@@ -1622,7 +1572,7 @@
     "contact": "Kontakt über Booking.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:49.662890+00:00"
+    "last_scraped": "2026-07-28T19:12:46.641392+00:00"
   },
   {
     "id": "two-bedroom-house-in-town-center-by-sweet-keys-limassol",
@@ -1647,7 +1597,7 @@
     "contact": "Kontakt über Booking.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:49.680232+00:00"
+    "last_scraped": "2026-07-28T19:12:46.656884+00:00"
   },
   {
     "id": "trendy-loft-apartment-limassol",
@@ -1672,7 +1622,7 @@
     "contact": "Kontakt über Booking.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:49.695120+00:00"
+    "last_scraped": "2026-07-28T19:12:46.672478+00:00"
   },
   {
     "id": "the-stable-limassol",
@@ -1697,7 +1647,7 @@
     "contact": "Kontakt über Booking.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:49.714996+00:00"
+    "last_scraped": "2026-07-28T19:12:46.686085+00:00"
   },
   {
     "id": "pavlos-place-blue-haven-limassol",
@@ -1722,7 +1672,7 @@
     "contact": "Kontakt über Booking.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:49.737815+00:00"
+    "last_scraped": "2026-07-28T19:12:46.702234+00:00"
   },
   {
     "id": "niko-s-modern-family-home-near-the-beach-limassol",
@@ -1747,7 +1697,7 @@
     "contact": "Kontakt über Booking.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:49.775005+00:00"
+    "last_scraped": "2026-07-28T19:12:46.716747+00:00"
   },
   {
     "id": "beach-walk-central-cool-cute-convenient-limassol",
@@ -1772,7 +1722,7 @@
     "contact": "Kontakt über Booking.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:49.819389+00:00"
+    "last_scraped": "2026-07-28T19:12:46.730160+00:00"
   },
   {
     "id": "calypso-historic-village-house-limassol",
@@ -1797,7 +1747,7 @@
     "contact": "Kontakt über Booking.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:49.861248+00:00"
+    "last_scraped": "2026-07-28T19:12:46.780722+00:00"
   },
   {
     "id": "st-george-s-country-retreat-limassol",
@@ -1822,7 +1772,7 @@
     "contact": "Kontakt über Booking.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:49.881961+00:00"
+    "last_scraped": "2026-07-28T19:12:46.793547+00:00"
   },
   {
     "id": "2-bedroom-house-near-the-beach-limassol",
@@ -1847,7 +1797,7 @@
     "contact": "Kontakt über Booking.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:49.899158+00:00"
+    "last_scraped": "2026-07-28T19:12:46.805918+00:00"
   },
   {
     "id": "despoina-town-house-limassol",
@@ -1872,7 +1822,7 @@
     "contact": "Kontakt über Booking.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:49.913689+00:00"
+    "last_scraped": "2026-07-28T19:12:46.819004+00:00"
   },
   {
     "id": "cozy-house-city-center-in-limassol-limassol",
@@ -1897,7 +1847,7 @@
     "contact": "Kontakt über Booking.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:49.928725+00:00"
+    "last_scraped": "2026-07-28T19:12:46.837627+00:00"
   },
   {
     "id": "alkeou-holiday-home-limassol",
@@ -1922,7 +1872,7 @@
     "contact": "Kontakt über Booking.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:49.943263+00:00"
+    "last_scraped": "2026-07-28T19:12:46.850252+00:00"
   },
   {
     "id": "fineline-villa-limassol",
@@ -1947,7 +1897,7 @@
     "contact": "Kontakt über Booking.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:49.958195+00:00"
+    "last_scraped": "2026-07-28T19:12:46.862974+00:00"
   },
   {
     "id": "maroulla-s-modern-spacious-family-home-near-the-beach-limassol",
@@ -1972,7 +1922,7 @@
     "contact": "Kontakt über Booking.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:49.973360+00:00"
+    "last_scraped": "2026-07-28T19:12:46.876815+00:00"
   },
   {
     "id": "stay-lumiere-house-limassol",
@@ -1997,7 +1947,7 @@
     "contact": "Kontakt über Booking.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:49.990017+00:00"
+    "last_scraped": "2026-07-28T19:12:46.890408+00:00"
   },
   {
     "id": "charming-house-in-the-heart-of-limassol-limassol",
@@ -2022,7 +1972,7 @@
     "contact": "Kontakt über Booking.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:50.005118+00:00"
+    "last_scraped": "2026-07-28T19:12:46.910796+00:00"
   },
   {
     "id": "milea-mansion-limassol",
@@ -2047,7 +1997,7 @@
     "contact": "Kontakt über Booking.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:50.020129+00:00"
+    "last_scraped": "2026-07-28T19:12:46.923143+00:00"
   },
   {
     "id": "modern-townhouse-with-pool-ten-minutes-limassol-center-limassol",
@@ -2072,7 +2022,7 @@
     "contact": "Kontakt über Booking.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:50.034604+00:00"
+    "last_scraped": "2026-07-28T19:12:46.936822+00:00"
   },
   {
     "id": "fig-olive-luxury-one-bedroom-boutique-in-pachna-limassol",
@@ -2097,7 +2047,7 @@
     "contact": "Kontakt über Booking.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:50.053619+00:00"
+    "last_scraped": "2026-07-28T19:12:46.949310+00:00"
   },
   {
     "id": "stay-downtown-retreat-limassol",
@@ -2122,7 +2072,7 @@
     "contact": "Kontakt über Booking.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:50.068622+00:00"
+    "last_scraped": "2026-07-28T19:12:46.961824+00:00"
   },
   {
     "id": "sea-view-beach-house-with-pool-limassol",
@@ -2147,7 +2097,7 @@
     "contact": "Kontakt über Booking.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:50.085258+00:00"
+    "last_scraped": "2026-07-28T19:12:46.975284+00:00"
   },
   {
     "id": "andros-residence-limassol",
@@ -2172,7 +2122,7 @@
     "contact": "Kontakt über Booking.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:50.100385+00:00"
+    "last_scraped": "2026-07-28T19:12:46.987663+00:00"
   },
   {
     "id": "light-garden-limassol",
@@ -2197,7 +2147,7 @@
     "contact": "Kontakt über Booking.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:50.114673+00:00"
+    "last_scraped": "2026-07-28T19:12:47.000835+00:00"
   },
   {
     "id": "list-your-property-paphos",
@@ -2222,7 +2172,7 @@
     "contact": "Kontakt über clickstay.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:53.804664+00:00"
+    "last_scraped": "2026-07-28T19:12:50.748494+00:00"
   },
   {
     "id": "bookings-paphos",
@@ -2247,7 +2197,7 @@
     "contact": "Kontakt über clickstay.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:53.812845+00:00"
+    "last_scraped": "2026-07-28T19:12:50.757104+00:00"
   },
   {
     "id": "inbox-paphos",
@@ -2272,7 +2222,7 @@
     "contact": "Kontakt über clickstay.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:53.816991+00:00"
+    "last_scraped": "2026-07-28T19:12:50.761299+00:00"
   },
   {
     "id": "wishlists-paphos",
@@ -2297,7 +2247,7 @@
     "contact": "Kontakt über clickstay.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:53.820810+00:00"
+    "last_scraped": "2026-07-28T19:12:50.765561+00:00"
   },
   {
     "id": "my-details-paphos",
@@ -2322,7 +2272,7 @@
     "contact": "Kontakt über clickstay.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:53.824758+00:00"
+    "last_scraped": "2026-07-28T19:12:50.769807+00:00"
   },
   {
     "id": "how-it-works-paphos",
@@ -2347,7 +2297,7 @@
     "contact": "Kontakt über clickstay.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:53.839338+00:00"
+    "last_scraped": "2026-07-28T19:12:50.787861+00:00"
   },
   {
     "id": "clickstay-reviews-paphos",
@@ -2372,7 +2322,7 @@
     "contact": "Kontakt über clickstay.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:53.843227+00:00"
+    "last_scraped": "2026-07-28T19:12:50.792089+00:00"
   },
   {
     "id": "search-holiday-rentals-paphos",
@@ -2397,7 +2347,7 @@
     "contact": "Kontakt über clickstay.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:53.847177+00:00"
+    "last_scraped": "2026-07-28T19:12:50.796232+00:00"
   },
   {
     "id": "cyprus-paphos",
@@ -2422,7 +2372,7 @@
     "contact": "Kontakt über clickstay.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:53.853418+00:00"
+    "last_scraped": "2026-07-28T19:12:50.802495+00:00"
   },
   {
     "id": "southern-cyprus-paphos",
@@ -2447,7 +2397,7 @@
     "contact": "Kontakt über clickstay.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:53.857394+00:00"
+    "last_scraped": "2026-07-28T19:12:50.806670+00:00"
   },
   {
     "id": "coral-bay-44-villas-paphos",
@@ -2472,7 +2422,7 @@
     "contact": "Kontakt über clickstay.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:53.861273+00:00"
+    "last_scraped": "2026-07-28T19:12:50.811051+00:00"
   },
   {
     "id": "aphrodite-hills-10-villas-and-apartments-paphos",
@@ -2497,7 +2447,7 @@
     "contact": "Kontakt über clickstay.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:53.865188+00:00"
+    "last_scraped": "2026-07-28T19:12:50.815195+00:00"
   },
   {
     "id": "latchi-27-villas-paphos",
@@ -2522,7 +2472,7 @@
     "contact": "Kontakt über clickstay.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:53.869285+00:00"
+    "last_scraped": "2026-07-28T19:12:50.819488+00:00"
   },
   {
     "id": "pegia-13-villas-paphos",
@@ -2547,7 +2497,7 @@
     "contact": "Kontakt über clickstay.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:53.873273+00:00"
+    "last_scraped": "2026-07-28T19:12:50.823610+00:00"
   },
   {
     "id": "peyia-14-villas-paphos",
@@ -2572,7 +2522,7 @@
     "contact": "Kontakt über clickstay.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:53.877080+00:00"
+    "last_scraped": "2026-07-28T19:12:50.828315+00:00"
   },
   {
     "id": "argaka-31-villas-paphos",
@@ -2597,7 +2547,7 @@
     "contact": "Kontakt über clickstay.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:53.882919+00:00"
+    "last_scraped": "2026-07-28T19:12:50.834644+00:00"
   },
   {
     "id": "polis-chrysochous-31-villas-paphos",
@@ -2622,7 +2572,7 @@
     "contact": "Kontakt über clickstay.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:53.887337+00:00"
+    "last_scraped": "2026-07-28T19:12:50.838854+00:00"
   },
   {
     "id": "kato-paphos-31-villas-and-apartments-paphos",
@@ -2647,7 +2597,7 @@
     "contact": "Kontakt über clickstay.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:53.891335+00:00"
+    "last_scraped": "2026-07-28T19:12:50.843261+00:00"
   },
   {
     "id": "kissonerga-7-villas-paphos",
@@ -2672,7 +2622,7 @@
     "contact": "Kontakt über clickstay.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:53.912758+00:00"
+    "last_scraped": "2026-07-28T19:12:50.863254+00:00"
   },
   {
     "id": "tala-6-villas-paphos",
@@ -2697,7 +2647,7 @@
     "contact": "Kontakt über clickstay.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:53.917580+00:00"
+    "last_scraped": "2026-07-28T19:12:50.867785+00:00"
   },
   {
     "id": "chlorakas-1-villa-paphos",
@@ -2722,7 +2672,7 @@
     "contact": "Kontakt über clickstay.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:53.922072+00:00"
+    "last_scraped": "2026-07-28T19:12:50.872132+00:00"
   },
   {
     "id": "agios-georgios-1-villa-paphos",
@@ -2747,7 +2697,7 @@
     "contact": "Kontakt über clickstay.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:53.926045+00:00"
+    "last_scraped": "2026-07-28T19:12:50.876308+00:00"
   },
   {
     "id": "owners-direct-57-holiday-lettings-paphos",
@@ -2772,7 +2722,7 @@
     "contact": "Kontakt über clickstay.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:53.930308+00:00"
+    "last_scraped": "2026-07-28T19:12:50.880743+00:00"
   },
   {
     "id": "lowest-price-pledge-owners-have-the-lowest-prices-on-clickstay-paphos",
@@ -2797,7 +2747,7 @@
     "contact": "Kontakt über clickstay.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:53.936950+00:00"
+    "last_scraped": "2026-07-28T19:12:50.887705+00:00"
   },
   {
     "id": "sitemap-paphos",
@@ -2822,6 +2772,6 @@
     "contact": "Kontakt über clickstay.com",
     "image_url": null,
     "last_verified": "2026-07-28",
-    "last_scraped": "2026-07-28T19:08:54.022966+00:00"
+    "last_scraped": "2026-07-28T19:12:50.974661+00:00"
   }
 ]
