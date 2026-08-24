@@ -21,8 +21,8 @@
     "description_snippet": null,
     "contact": "Kontakt über cyprusvillaweddings.com",
     "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:05.684544+00:00"
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:11.248385+00:00"
   },
   {
     "id": "wedding-packages-paphos-peyia",
@@ -46,8 +46,8 @@
     "description_snippet": null,
     "contact": "Kontakt über cyprusvillaweddings.com",
     "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:05.690164+00:00"
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:11.253785+00:00"
   },
   {
     "id": "bespoke-weddings-paphos-peyia",
@@ -71,8 +71,8 @@
     "description_snippet": null,
     "contact": "Kontakt über cyprusvillaweddings.com",
     "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:05.695536+00:00"
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:11.259299+00:00"
   },
   {
     "id": "our-couples-paphos-peyia",
@@ -96,8 +96,8 @@
     "description_snippet": null,
     "contact": "Kontakt über cyprusvillaweddings.com",
     "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:05.701672+00:00"
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:11.266112+00:00"
   },
   {
     "id": "villa-euphoria-luxury-8-bedroom-villa-with-stunning-views-over-the-mediterranean-sea-paphos-peyia",
@@ -121,8 +121,8 @@
     "description_snippet": null,
     "contact": "Kontakt über cyprusvillaweddings.com",
     "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:05.711982+00:00"
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:11.276529+00:00"
   },
   {
     "id": "panorama-villa-luxury-villa-with-amazing-views-ideal-for-weddings-six-bedrooms-sleeps-up-to-15-13-adults-2-children-paphos-peyia",
@@ -146,8 +146,8 @@
     "description_snippet": null,
     "contact": "Kontakt über cyprusvillaweddings.com",
     "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:05.717328+00:00"
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:11.282033+00:00"
   },
   {
     "id": "coral-hills-villa-coral-hills-villa-is-a-one-day-hire-villa-for-exclusive-weddings-with-complete-privacy-paphos-peyia",
@@ -171,8 +171,8 @@
     "description_snippet": null,
     "contact": "Kontakt über cyprusvillaweddings.com",
     "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:05.723045+00:00"
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:11.287668+00:00"
   },
   {
     "id": "villa-avyana-a-spectacular-luxury-villa-of-5-bedrooms-completely-private-ideal-for-weddings-paphos-peyia",
@@ -196,8 +196,8 @@
     "description_snippet": null,
     "contact": "Kontakt über cyprusvillaweddings.com",
     "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:05.728483+00:00"
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:11.292903+00:00"
   },
   {
     "id": "oceania-villa-weddings-cyprus-super-modern-luxury-villa-sleeps-up-to-16-14-adults-2-children-7-bedrooms-4-bathrooms-infinity-pool-amazing-views-paphos-peyia",
@@ -221,8 +221,8 @@
     "description_snippet": null,
     "contact": "Kontakt über cyprusvillaweddings.com",
     "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:05.733797+00:00"
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:11.297836+00:00"
   },
   {
     "id": "oceanos-beach-villa-right-on-the-sea-front-ideal-for-a-beach-wedding-modern-luxury-villa-sleeps-up-to-12-people-paphos-peyia",
@@ -246,33 +246,8 @@
     "description_snippet": null,
     "contact": "Kontakt über cyprusvillaweddings.com",
     "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:05.739275+00:00"
-  },
-  {
-    "id": "cyprus-villa-weddings-paphos-peyia",
-    "name": "CYPRUS VILLA WEDDINGS",
-    "region": "Paphos / Peyia",
-    "lat": null,
-    "lng": null,
-    "source_url": "https://www.cyprusvillaweddings.com",
-    "source_domain": "cyprusvillaweddings.com",
-    "sea_view": null,
-    "mountain_view": null,
-    "max_guests": null,
-    "bedrooms": null,
-    "type": "rent",
-    "event_policy": "unknown",
-    "event_policy_details": null,
-    "curfew": null,
-    "price_range": null,
-    "price_per_night_eur": null,
-    "features": [],
-    "description_snippet": null,
-    "contact": "Kontakt über cyprusvillaweddings.com",
-    "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:05.763893+00:00"
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:11.303340+00:00"
   },
   {
     "id": "award-tala",
@@ -296,8 +271,8 @@
     "description_snippet": null,
     "contact": "Kontakt über lchateau.com",
     "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:08.475902+00:00"
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:14.433291+00:00"
   },
   {
     "id": "valentinos-house-paphos",
@@ -321,8 +296,8 @@
     "description_snippet": null,
     "contact": "Kontakt über Booking.com",
     "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:14.292661+00:00"
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:20.869092+00:00"
   },
   {
     "id": "seaside-sun-kissed-house-with-pool-in-tourist-area-paphos",
@@ -346,83 +321,8 @@
     "description_snippet": null,
     "contact": "Kontakt über Booking.com",
     "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:14.318892+00:00"
-  },
-  {
-    "id": "maya-paphos",
-    "name": "MAYA",
-    "region": "Paphos",
-    "lat": null,
-    "lng": null,
-    "source_url": "https://www.booking.com/hotel/cy/maya.html",
-    "source_domain": "booking.com",
-    "sea_view": null,
-    "mountain_view": null,
-    "max_guests": null,
-    "bedrooms": null,
-    "type": "rent",
-    "event_policy": "unknown",
-    "event_policy_details": null,
-    "curfew": null,
-    "price_range": null,
-    "price_per_night_eur": null,
-    "features": [],
-    "description_snippet": null,
-    "contact": "Kontakt über Booking.com",
-    "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:14.343912+00:00"
-  },
-  {
-    "id": "holiday-villas-in-cyprus-philippos-villa-5-paphos",
-    "name": "Holiday Villas in Cyprus (Philippos villa 5)",
-    "region": "Paphos",
-    "lat": null,
-    "lng": null,
-    "source_url": "https://www.booking.com/hotel/cy/holiday-villas-in-cyprus-philippos-villa-5.html",
-    "source_domain": "booking.com",
-    "sea_view": null,
-    "mountain_view": null,
-    "max_guests": null,
-    "bedrooms": null,
-    "type": "rent",
-    "event_policy": "unknown",
-    "event_policy_details": null,
-    "curfew": null,
-    "price_range": null,
-    "price_per_night_eur": null,
-    "features": [],
-    "description_snippet": null,
-    "contact": "Kontakt über Booking.com",
-    "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:14.364461+00:00"
-  },
-  {
-    "id": "danaos-luxury-sea-view-townhouse-with-pool-paphos",
-    "name": "Danaos Luxury Sea View Townhouse with Pool",
-    "region": "Paphos",
-    "lat": null,
-    "lng": null,
-    "source_url": "https://www.booking.com/hotel/cy/beautiful-house-near-venus-beach-paphos.html",
-    "source_domain": "booking.com",
-    "sea_view": null,
-    "mountain_view": null,
-    "max_guests": null,
-    "bedrooms": null,
-    "type": "rent",
-    "event_policy": "unknown",
-    "event_policy_details": null,
-    "curfew": null,
-    "price_range": null,
-    "price_per_night_eur": null,
-    "features": [],
-    "description_snippet": null,
-    "contact": "Kontakt über Booking.com",
-    "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:14.389182+00:00"
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:20.894473+00:00"
   },
   {
     "id": "est-a-melina-s-summer-townhouse-paphos",
@@ -446,16 +346,16 @@
     "description_snippet": null,
     "contact": "Kontakt über Booking.com",
     "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:14.413785+00:00"
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:20.919741+00:00"
   },
   {
-    "id": "kings-beach-townhouse-paphos",
-    "name": "Kings beach Townhouse",
+    "id": "maya-paphos",
+    "name": "MAYA",
     "region": "Paphos",
     "lat": null,
     "lng": null,
-    "source_url": "https://www.booking.com/hotel/cy/house-sleeps-4-with-garden-and-parking.html",
+    "source_url": "https://www.booking.com/hotel/cy/maya.html",
     "source_domain": "booking.com",
     "sea_view": null,
     "mountain_view": null,
@@ -471,8 +371,8 @@
     "description_snippet": null,
     "contact": "Kontakt über Booking.com",
     "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:14.443874+00:00"
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:20.939337+00:00"
   },
   {
     "id": "blue-horizon-two-storey-house-just-400-m-from-the-beach-paphos",
@@ -496,16 +396,16 @@
     "description_snippet": null,
     "contact": "Kontakt über Booking.com",
     "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:14.463252+00:00"
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:20.960412+00:00"
   },
   {
-    "id": "palm-at-venus-beach-paphos",
-    "name": "Palm at Venus Beach",
+    "id": "danaos-luxury-sea-view-townhouse-with-pool-paphos",
+    "name": "Danaos Luxury Sea View Townhouse with Pool",
     "region": "Paphos",
     "lat": null,
     "lng": null,
-    "source_url": "https://www.booking.com/hotel/cy/king-beach-residence-d4.html",
+    "source_url": "https://www.booking.com/hotel/cy/beautiful-house-near-venus-beach-paphos.html",
     "source_domain": "booking.com",
     "sea_view": null,
     "mountain_view": null,
@@ -521,16 +421,16 @@
     "description_snippet": null,
     "contact": "Kontakt über Booking.com",
     "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:14.483176+00:00"
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:20.997377+00:00"
   },
   {
-    "id": "tedy-s-townhouse-margarita-gardens-paphos",
-    "name": "Tedy's Townhouse-Margarita Gardens",
+    "id": "kings-beach-townhouse-paphos",
+    "name": "Kings beach Townhouse",
     "region": "Paphos",
     "lat": null,
     "lng": null,
-    "source_url": "https://www.booking.com/hotel/cy/tedy-39-s-townhouse-margarita-gardens.html",
+    "source_url": "https://www.booking.com/hotel/cy/house-sleeps-4-with-garden-and-parking.html",
     "source_domain": "booking.com",
     "sea_view": null,
     "mountain_view": null,
@@ -546,16 +446,16 @@
     "description_snippet": null,
     "contact": "Kontakt über Booking.com",
     "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:14.539927+00:00"
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:21.015738+00:00"
   },
   {
-    "id": "3-bdr-house-ambrosia-paphos",
-    "name": "3 bdr house Ambrosia",
+    "id": "holiday-villas-in-cyprus-philippos-villa-5-paphos",
+    "name": "Holiday Villas in Cyprus (Philippos villa 5)",
     "region": "Paphos",
     "lat": null,
     "lng": null,
-    "source_url": "https://www.booking.com/hotel/cy/ambrosia-3-bdr-house.html",
+    "source_url": "https://www.booking.com/hotel/cy/holiday-villas-in-cyprus-philippos-villa-5.html",
     "source_domain": "booking.com",
     "sea_view": null,
     "mountain_view": null,
@@ -571,108 +471,8 @@
     "description_snippet": null,
     "contact": "Kontakt über Booking.com",
     "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:14.555951+00:00"
-  },
-  {
-    "id": "2bd-garden-apartment-paphos",
-    "name": "2BD Garden Apartment",
-    "region": "Paphos",
-    "lat": null,
-    "lng": null,
-    "source_url": "https://www.booking.com/hotel/cy/2bd-apartment-flamingo.html",
-    "source_domain": "booking.com",
-    "sea_view": null,
-    "mountain_view": null,
-    "max_guests": null,
-    "bedrooms": null,
-    "type": "rent",
-    "event_policy": "unknown",
-    "event_policy_details": null,
-    "curfew": null,
-    "price_range": null,
-    "price_per_night_eur": null,
-    "features": [],
-    "description_snippet": null,
-    "contact": "Kontakt über Booking.com",
-    "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:14.573793+00:00"
-  },
-  {
-    "id": "diana-townhouse-5-paphos",
-    "name": "Diana Townhouse 5",
-    "region": "Paphos",
-    "lat": null,
-    "lng": null,
-    "source_url": "https://www.booking.com/hotel/cy/diana-townhouse-5.html",
-    "source_domain": "booking.com",
-    "sea_view": null,
-    "mountain_view": null,
-    "max_guests": null,
-    "bedrooms": null,
-    "type": "rent",
-    "event_policy": "unknown",
-    "event_policy_details": null,
-    "curfew": null,
-    "price_range": null,
-    "price_per_night_eur": null,
-    "features": [],
-    "description_snippet": null,
-    "contact": "Kontakt über Booking.com",
-    "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:14.590943+00:00"
-  },
-  {
-    "id": "lemonia-modern-maisonette-fresh-3-bdr-family-paphos",
-    "name": "Lemonia Modern Maisonette Fresh 3-BDR Family",
-    "region": "Paphos",
-    "lat": null,
-    "lng": null,
-    "source_url": "https://www.booking.com/hotel/cy/tranquil-paphos-retreat.html",
-    "source_domain": "booking.com",
-    "sea_view": null,
-    "mountain_view": null,
-    "max_guests": null,
-    "bedrooms": null,
-    "type": "rent",
-    "event_policy": "unknown",
-    "event_policy_details": null,
-    "curfew": null,
-    "price_range": null,
-    "price_per_night_eur": null,
-    "features": [],
-    "description_snippet": null,
-    "contact": "Kontakt über Booking.com",
-    "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:14.608092+00:00"
-  },
-  {
-    "id": "pafia-sunbeach-townhouse-paphos",
-    "name": "Pafia Sunbeach Townhouse",
-    "region": "Paphos",
-    "lat": null,
-    "lng": null,
-    "source_url": "https://www.booking.com/hotel/cy/pafia-sunbeach-townhouse.html",
-    "source_domain": "booking.com",
-    "sea_view": null,
-    "mountain_view": null,
-    "max_guests": null,
-    "bedrooms": null,
-    "type": "rent",
-    "event_policy": "unknown",
-    "event_policy_details": null,
-    "curfew": null,
-    "price_range": null,
-    "price_per_night_eur": null,
-    "features": [],
-    "description_snippet": null,
-    "contact": "Kontakt über Booking.com",
-    "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:14.624830+00:00"
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:21.040623+00:00"
   },
   {
     "id": "css-cheerful-smart-superior-2bd-townhouse-limnaria-gardens-paphos",
@@ -696,58 +496,8 @@
     "description_snippet": null,
     "contact": "Kontakt über Booking.com",
     "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:14.640025+00:00"
-  },
-  {
-    "id": "green-oasis-near-the-beach-and-tourist-area-paphos",
-    "name": "GREEN OASIS near the beach and tourist area",
-    "region": "Paphos",
-    "lat": null,
-    "lng": null,
-    "source_url": "https://www.booking.com/hotel/cy/luxury-house-near-the-sea.html",
-    "source_domain": "booking.com",
-    "sea_view": null,
-    "mountain_view": null,
-    "max_guests": null,
-    "bedrooms": null,
-    "type": "rent",
-    "event_policy": "unknown",
-    "event_policy_details": null,
-    "curfew": null,
-    "price_range": null,
-    "price_per_night_eur": null,
-    "features": [],
-    "description_snippet": null,
-    "contact": "Kontakt über Booking.com",
-    "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:14.657196+00:00"
-  },
-  {
-    "id": "casa-romy-3-bedroom-townhouse-direkt-am-pool-paphos",
-    "name": "Casa Romy - 3 Bedroom Townhouse direkt am Pool",
-    "region": "Paphos",
-    "lat": null,
-    "lng": null,
-    "source_url": "https://www.booking.com/hotel/cy/casa-romy-3-bedroom-townhouse-direkt-am-pool.html",
-    "source_domain": "booking.com",
-    "sea_view": null,
-    "mountain_view": null,
-    "max_guests": null,
-    "bedrooms": null,
-    "type": "rent",
-    "event_policy": "unknown",
-    "event_policy_details": null,
-    "curfew": null,
-    "price_range": null,
-    "price_per_night_eur": null,
-    "features": [],
-    "description_snippet": null,
-    "contact": "Kontakt über Booking.com",
-    "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:14.673844+00:00"
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:21.058336+00:00"
   },
   {
     "id": "nerina-townhouse-by-staycom-paphos",
@@ -771,8 +521,133 @@
     "description_snippet": null,
     "contact": "Kontakt über Booking.com",
     "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:14.689112+00:00"
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:21.076244+00:00"
+  },
+  {
+    "id": "palm-at-venus-beach-paphos",
+    "name": "Palm at Venus Beach",
+    "region": "Paphos",
+    "lat": null,
+    "lng": null,
+    "source_url": "https://www.booking.com/hotel/cy/king-beach-residence-d4.html",
+    "source_domain": "booking.com",
+    "sea_view": null,
+    "mountain_view": null,
+    "max_guests": null,
+    "bedrooms": null,
+    "type": "rent",
+    "event_policy": "unknown",
+    "event_policy_details": null,
+    "curfew": null,
+    "price_range": null,
+    "price_per_night_eur": null,
+    "features": [],
+    "description_snippet": null,
+    "contact": "Kontakt über Booking.com",
+    "image_url": null,
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:21.096272+00:00"
+  },
+  {
+    "id": "2bd-garden-apartment-paphos",
+    "name": "2BD Garden Apartment",
+    "region": "Paphos",
+    "lat": null,
+    "lng": null,
+    "source_url": "https://www.booking.com/hotel/cy/2bd-apartment-flamingo.html",
+    "source_domain": "booking.com",
+    "sea_view": null,
+    "mountain_view": null,
+    "max_guests": null,
+    "bedrooms": null,
+    "type": "rent",
+    "event_policy": "unknown",
+    "event_policy_details": null,
+    "curfew": null,
+    "price_range": null,
+    "price_per_night_eur": null,
+    "features": [],
+    "description_snippet": null,
+    "contact": "Kontakt über Booking.com",
+    "image_url": null,
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:21.156189+00:00"
+  },
+  {
+    "id": "diana-townhouse-5-paphos",
+    "name": "Diana Townhouse 5",
+    "region": "Paphos",
+    "lat": null,
+    "lng": null,
+    "source_url": "https://www.booking.com/hotel/cy/diana-townhouse-5.html",
+    "source_domain": "booking.com",
+    "sea_view": null,
+    "mountain_view": null,
+    "max_guests": null,
+    "bedrooms": null,
+    "type": "rent",
+    "event_policy": "unknown",
+    "event_policy_details": null,
+    "curfew": null,
+    "price_range": null,
+    "price_per_night_eur": null,
+    "features": [],
+    "description_snippet": null,
+    "contact": "Kontakt über Booking.com",
+    "image_url": null,
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:21.174049+00:00"
+  },
+  {
+    "id": "3-bdr-house-ambrosia-paphos",
+    "name": "3 bdr house Ambrosia",
+    "region": "Paphos",
+    "lat": null,
+    "lng": null,
+    "source_url": "https://www.booking.com/hotel/cy/ambrosia-3-bdr-house.html",
+    "source_domain": "booking.com",
+    "sea_view": null,
+    "mountain_view": null,
+    "max_guests": null,
+    "bedrooms": null,
+    "type": "rent",
+    "event_policy": "unknown",
+    "event_policy_details": null,
+    "curfew": null,
+    "price_range": null,
+    "price_per_night_eur": null,
+    "features": [],
+    "description_snippet": null,
+    "contact": "Kontakt über Booking.com",
+    "image_url": null,
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:21.190305+00:00"
+  },
+  {
+    "id": "pafia-sunbeach-townhouse-paphos",
+    "name": "Pafia Sunbeach Townhouse",
+    "region": "Paphos",
+    "lat": null,
+    "lng": null,
+    "source_url": "https://www.booking.com/hotel/cy/pafia-sunbeach-townhouse.html",
+    "source_domain": "booking.com",
+    "sea_view": null,
+    "mountain_view": null,
+    "max_guests": null,
+    "bedrooms": null,
+    "type": "rent",
+    "event_policy": "unknown",
+    "event_policy_details": null,
+    "curfew": null,
+    "price_range": null,
+    "price_per_night_eur": null,
+    "features": [],
+    "description_snippet": null,
+    "contact": "Kontakt über Booking.com",
+    "image_url": null,
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:21.206543+00:00"
   },
   {
     "id": "mediterranean-valley-paphos",
@@ -796,16 +671,16 @@
     "description_snippet": null,
     "contact": "Kontakt über Booking.com",
     "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:14.708273+00:00"
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:21.224300+00:00"
   },
   {
-    "id": "h-o-sea-view-beachfront-apartment-paphos",
-    "name": "H&O Sea View Beachfront Apartment",
+    "id": "tedy-s-townhouse-margarita-gardens-paphos",
+    "name": "Tedy's Townhouse-Margarita Gardens",
     "region": "Paphos",
     "lat": null,
     "lng": null,
-    "source_url": "https://www.booking.com/hotel/cy/sea-view-lighthouse-paphos.html",
+    "source_url": "https://www.booking.com/hotel/cy/tedy-39-s-townhouse-margarita-gardens.html",
     "source_domain": "booking.com",
     "sea_view": null,
     "mountain_view": null,
@@ -821,16 +696,16 @@
     "description_snippet": null,
     "contact": "Kontakt über Booking.com",
     "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:14.723813+00:00"
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:21.241494+00:00"
   },
   {
-    "id": "est-a-olympia-s-skyview-townhouse-with-a-pool-paphos",
-    "name": "estéa - Olympia's SkyView Townhouse with a Pool",
+    "id": "green-oasis-near-the-beach-and-tourist-area-paphos",
+    "name": "GREEN OASIS near the beach and tourist area",
     "region": "Paphos",
     "lat": null,
     "lng": null,
-    "source_url": "https://www.booking.com/hotel/cy/estea-olympias-skyview-townhouse-with-a-pool.html",
+    "source_url": "https://www.booking.com/hotel/cy/luxury-house-near-the-sea.html",
     "source_domain": "booking.com",
     "sea_view": null,
     "mountain_view": null,
@@ -846,8 +721,33 @@
     "description_snippet": null,
     "contact": "Kontakt über Booking.com",
     "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:14.740626+00:00"
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:21.256715+00:00"
+  },
+  {
+    "id": "lemonia-modern-maisonette-fresh-3-bdr-family-paphos",
+    "name": "Lemonia Modern Maisonette Fresh 3-BDR Family",
+    "region": "Paphos",
+    "lat": null,
+    "lng": null,
+    "source_url": "https://www.booking.com/hotel/cy/tranquil-paphos-retreat.html",
+    "source_domain": "booking.com",
+    "sea_view": null,
+    "mountain_view": null,
+    "max_guests": null,
+    "bedrooms": null,
+    "type": "rent",
+    "event_policy": "unknown",
+    "event_policy_details": null,
+    "curfew": null,
+    "price_range": null,
+    "price_per_night_eur": null,
+    "features": [],
+    "description_snippet": null,
+    "contact": "Kontakt über Booking.com",
+    "image_url": null,
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:21.275473+00:00"
   },
   {
     "id": "nephele-stylish-2bd-townhouse-in-kato-paphos-paphos",
@@ -871,16 +771,16 @@
     "description_snippet": null,
     "contact": "Kontakt über Booking.com",
     "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:14.755947+00:00"
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:21.291646+00:00"
   },
   {
-    "id": "regina-gardens-spacious-3-bed-2-bath-maisonette-paphos",
-    "name": "Regina Gardens - Spacious 3 bed, 2 bath maisonette",
+    "id": "h-o-sea-view-beachfront-apartment-paphos",
+    "name": "H&O Sea View Beachfront Apartment",
     "region": "Paphos",
     "lat": null,
     "lng": null,
-    "source_url": "https://www.booking.com/hotel/cy/spacious-3-bed-2-bath-maisonette-in-regina-gardens.html",
+    "source_url": "https://www.booking.com/hotel/cy/sea-view-lighthouse-paphos.html",
     "source_domain": "booking.com",
     "sea_view": null,
     "mountain_view": null,
@@ -896,8 +796,8 @@
     "description_snippet": null,
     "contact": "Kontakt über Booking.com",
     "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:14.771028+00:00"
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:21.317394+00:00"
   },
   {
     "id": "natalia-s-townhouse-margarita-gardens-003-paphos",
@@ -921,16 +821,16 @@
     "description_snippet": null,
     "contact": "Kontakt über Booking.com",
     "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:14.785356+00:00"
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:21.334120+00:00"
   },
   {
-    "id": "simona-stone-house-polis-latchi",
-    "name": "Simona Stone House",
-    "region": "Polis / Latchi",
+    "id": "est-a-olympia-s-skyview-townhouse-with-a-pool-paphos",
+    "name": "estéa - Olympia's SkyView Townhouse with a Pool",
+    "region": "Paphos",
     "lat": null,
     "lng": null,
-    "source_url": "https://www.booking.com/hotel/cy/simona-stone-house-neo-chorio1.html",
+    "source_url": "https://www.booking.com/hotel/cy/estea-olympias-skyview-townhouse-with-a-pool.html",
     "source_domain": "booking.com",
     "sea_view": null,
     "mountain_view": null,
@@ -946,16 +846,16 @@
     "description_snippet": null,
     "contact": "Kontakt über Booking.com",
     "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:20.545043+00:00"
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:21.354165+00:00"
   },
   {
-    "id": "the-summer-haven-polis-latchi",
-    "name": "The Summer Haven",
-    "region": "Polis / Latchi",
+    "id": "regina-gardens-spacious-3-bed-2-bath-maisonette-paphos",
+    "name": "Regina Gardens - Spacious 3 bed, 2 bath maisonette",
+    "region": "Paphos",
     "lat": null,
     "lng": null,
-    "source_url": "https://www.booking.com/hotel/cy/the-summer-haven.html",
+    "source_url": "https://www.booking.com/hotel/cy/spacious-3-bed-2-bath-maisonette-in-regina-gardens.html",
     "source_domain": "booking.com",
     "sea_view": null,
     "mountain_view": null,
@@ -971,8 +871,33 @@
     "description_snippet": null,
     "contact": "Kontakt über Booking.com",
     "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:20.571444+00:00"
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:21.370160+00:00"
+  },
+  {
+    "id": "nanas-vacation-house-paphos",
+    "name": "Nanas Vacation House",
+    "region": "Paphos",
+    "lat": null,
+    "lng": null,
+    "source_url": "https://www.booking.com/hotel/cy/athena-maisonette.html",
+    "source_domain": "booking.com",
+    "sea_view": null,
+    "mountain_view": null,
+    "max_guests": null,
+    "bedrooms": null,
+    "type": "rent",
+    "event_policy": "unknown",
+    "event_policy_details": null,
+    "curfew": null,
+    "price_range": null,
+    "price_per_night_eur": null,
+    "features": [],
+    "description_snippet": null,
+    "contact": "Kontakt über Booking.com",
+    "image_url": null,
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:21.385753+00:00"
   },
   {
     "id": "aura-beachfront-residence-by-nomads-polis-latchi",
@@ -996,8 +921,58 @@
     "description_snippet": null,
     "contact": "Kontakt über Booking.com",
     "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:20.593221+00:00"
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:26.289291+00:00"
+  },
+  {
+    "id": "simona-stone-house-polis-latchi",
+    "name": "Simona Stone House",
+    "region": "Polis / Latchi",
+    "lat": null,
+    "lng": null,
+    "source_url": "https://www.booking.com/hotel/cy/simona-stone-house-neo-chorio1.html",
+    "source_domain": "booking.com",
+    "sea_view": null,
+    "mountain_view": null,
+    "max_guests": null,
+    "bedrooms": null,
+    "type": "rent",
+    "event_policy": "unknown",
+    "event_policy_details": null,
+    "curfew": null,
+    "price_range": null,
+    "price_per_night_eur": null,
+    "features": [],
+    "description_snippet": null,
+    "contact": "Kontakt über Booking.com",
+    "image_url": null,
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:26.305522+00:00"
+  },
+  {
+    "id": "the-summer-haven-polis-latchi",
+    "name": "The Summer Haven",
+    "region": "Polis / Latchi",
+    "lat": null,
+    "lng": null,
+    "source_url": "https://www.booking.com/hotel/cy/the-summer-haven.html",
+    "source_domain": "booking.com",
+    "sea_view": null,
+    "mountain_view": null,
+    "max_guests": null,
+    "bedrooms": null,
+    "type": "rent",
+    "event_policy": "unknown",
+    "event_policy_details": null,
+    "curfew": null,
+    "price_range": null,
+    "price_per_night_eur": null,
+    "features": [],
+    "description_snippet": null,
+    "contact": "Kontakt über Booking.com",
+    "image_url": null,
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:26.320801+00:00"
   },
   {
     "id": "kyma-ii-beachfront-residence-polis-latchi",
@@ -1021,33 +996,8 @@
     "description_snippet": null,
     "contact": "Kontakt über Booking.com",
     "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:20.620663+00:00"
-  },
-  {
-    "id": "kohili-seaside-residence-polis-latchi",
-    "name": "KOHILI Seaside Residence",
-    "region": "Polis / Latchi",
-    "lat": null,
-    "lng": null,
-    "source_url": "https://www.booking.com/hotel/cy/kohili-seaside-residense.html",
-    "source_domain": "booking.com",
-    "sea_view": null,
-    "mountain_view": null,
-    "max_guests": null,
-    "bedrooms": null,
-    "type": "rent",
-    "event_policy": "unknown",
-    "event_policy_details": null,
-    "curfew": null,
-    "price_range": null,
-    "price_per_night_eur": null,
-    "features": [],
-    "description_snippet": null,
-    "contact": "Kontakt über Booking.com",
-    "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:20.643595+00:00"
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:26.339388+00:00"
   },
   {
     "id": "siblings-nest-1-polis-latchi",
@@ -1071,8 +1021,33 @@
     "description_snippet": null,
     "contact": "Kontakt über Booking.com",
     "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:20.668757+00:00"
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:26.355285+00:00"
+  },
+  {
+    "id": "kohili-seaside-residence-polis-latchi",
+    "name": "KOHILI Seaside Residence",
+    "region": "Polis / Latchi",
+    "lat": null,
+    "lng": null,
+    "source_url": "https://www.booking.com/hotel/cy/kohili-seaside-residense.html",
+    "source_domain": "booking.com",
+    "sea_view": null,
+    "mountain_view": null,
+    "max_guests": null,
+    "bedrooms": null,
+    "type": "rent",
+    "event_policy": "unknown",
+    "event_policy_details": null,
+    "curfew": null,
+    "price_range": null,
+    "price_per_night_eur": null,
+    "features": [],
+    "description_snippet": null,
+    "contact": "Kontakt über Booking.com",
+    "image_url": null,
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:26.370968+00:00"
   },
   {
     "id": "sunset-view-polis-latchi",
@@ -1096,8 +1071,8 @@
     "description_snippet": null,
     "contact": "Kontakt über Booking.com",
     "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:20.692231+00:00"
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:26.385781+00:00"
   },
   {
     "id": "paradeisos-is-a-stunning-2-bed-house-in-polis-polis-latchi",
@@ -1121,58 +1096,8 @@
     "description_snippet": null,
     "contact": "Kontakt über Booking.com",
     "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:20.713979+00:00"
-  },
-  {
-    "id": "kyma-i-beachfront-residence-at-latsi-polis-latchi",
-    "name": "Kyma I - Beachfront Residence At Latsi",
-    "region": "Polis / Latchi",
-    "lat": null,
-    "lng": null,
-    "source_url": "https://www.booking.com/hotel/cy/kyma-2bed-beachfront-bungalow.html",
-    "source_domain": "booking.com",
-    "sea_view": null,
-    "mountain_view": null,
-    "max_guests": null,
-    "bedrooms": null,
-    "type": "rent",
-    "event_policy": "unknown",
-    "event_policy_details": null,
-    "curfew": null,
-    "price_range": null,
-    "price_per_night_eur": null,
-    "features": [],
-    "description_snippet": null,
-    "contact": "Kontakt über Booking.com",
-    "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:20.736284+00:00"
-  },
-  {
-    "id": "special-launch-price-breathtaking-sea-view-2br-villa-perfect-for-families-polis-latchi",
-    "name": "Special Launch Price Breathtaking Sea View-2BR Villa-Perfect for Families",
-    "region": "Polis / Latchi",
-    "lat": null,
-    "lng": null,
-    "source_url": "https://www.booking.com/hotel/cy/special-launch-price-breathtaking-sea-view-2br-villa-perfect-for-families.html",
-    "source_domain": "booking.com",
-    "sea_view": null,
-    "mountain_view": null,
-    "max_guests": null,
-    "bedrooms": null,
-    "type": "rent",
-    "event_policy": "unknown",
-    "event_policy_details": null,
-    "curfew": null,
-    "price_range": null,
-    "price_per_night_eur": null,
-    "features": [],
-    "description_snippet": null,
-    "contact": "Kontakt über Booking.com",
-    "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:20.758005+00:00"
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:26.401631+00:00"
   },
   {
     "id": "polis-gardens-polis-latchi",
@@ -1196,8 +1121,58 @@
     "description_snippet": null,
     "contact": "Kontakt über Booking.com",
     "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:20.778862+00:00"
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:26.418170+00:00"
+  },
+  {
+    "id": "special-launch-price-breathtaking-sea-view-2br-villa-perfect-for-families-polis-latchi",
+    "name": "Special Launch Price Breathtaking Sea View-2BR Villa-Perfect for Families",
+    "region": "Polis / Latchi",
+    "lat": null,
+    "lng": null,
+    "source_url": "https://www.booking.com/hotel/cy/special-launch-price-breathtaking-sea-view-2br-villa-perfect-for-families.html",
+    "source_domain": "booking.com",
+    "sea_view": null,
+    "mountain_view": null,
+    "max_guests": null,
+    "bedrooms": null,
+    "type": "rent",
+    "event_policy": "unknown",
+    "event_policy_details": null,
+    "curfew": null,
+    "price_range": null,
+    "price_per_night_eur": null,
+    "features": [],
+    "description_snippet": null,
+    "contact": "Kontakt über Booking.com",
+    "image_url": null,
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:26.433204+00:00"
+  },
+  {
+    "id": "kyma-i-beachfront-residence-at-latsi-polis-latchi",
+    "name": "Kyma I - Beachfront Residence At Latsi",
+    "region": "Polis / Latchi",
+    "lat": null,
+    "lng": null,
+    "source_url": "https://www.booking.com/hotel/cy/kyma-2bed-beachfront-bungalow.html",
+    "source_domain": "booking.com",
+    "sea_view": null,
+    "mountain_view": null,
+    "max_guests": null,
+    "bedrooms": null,
+    "type": "rent",
+    "event_policy": "unknown",
+    "event_policy_details": null,
+    "curfew": null,
+    "price_range": null,
+    "price_per_night_eur": null,
+    "features": [],
+    "description_snippet": null,
+    "contact": "Kontakt über Booking.com",
+    "image_url": null,
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:26.456971+00:00"
   },
   {
     "id": "vasilion-agrotourism-polis-latchi",
@@ -1221,8 +1196,8 @@
     "description_snippet": null,
     "contact": "Kontakt über Booking.com",
     "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:20.803628+00:00"
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:26.473512+00:00"
   },
   {
     "id": "cyprus-2-bedrooms-both-ensuite-pool-patios-wifi-polis-latchi",
@@ -1246,33 +1221,8 @@
     "description_snippet": null,
     "contact": "Kontakt über Booking.com",
     "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:20.829307+00:00"
-  },
-  {
-    "id": "2-bed-house-sleeps-4-pool-garden-parking-polis-latchi",
-    "name": "2 Bed House - Sleeps 4 - Pool - Garden - Parking",
-    "region": "Polis / Latchi",
-    "lat": null,
-    "lng": null,
-    "source_url": "https://www.booking.com/hotel/cy/remarkable-2-bed-house-in-poli-crysochous-poli-crysochous.html",
-    "source_domain": "booking.com",
-    "sea_view": null,
-    "mountain_view": null,
-    "max_guests": null,
-    "bedrooms": null,
-    "type": "rent",
-    "event_policy": "unknown",
-    "event_policy_details": null,
-    "curfew": null,
-    "price_range": null,
-    "price_per_night_eur": null,
-    "features": [],
-    "description_snippet": null,
-    "contact": "Kontakt über Booking.com",
-    "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:20.848430+00:00"
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:26.488152+00:00"
   },
   {
     "id": "cyprus-2-beds-ensuite-pool-patio-wifi-parking-polis-latchi",
@@ -1296,16 +1246,16 @@
     "description_snippet": null,
     "contact": "Kontakt über Booking.com",
     "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:20.868822+00:00"
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:26.504410+00:00"
   },
   {
-    "id": "villa-lachi-polis-latchi",
-    "name": "Villa Lachi",
+    "id": "2-bed-house-sleeps-4-pool-garden-parking-polis-latchi",
+    "name": "2 Bed House - Sleeps 4 - Pool - Garden - Parking",
     "region": "Polis / Latchi",
     "lat": null,
     "lng": null,
-    "source_url": "https://www.booking.com/hotel/cy/villa-lachi.html",
+    "source_url": "https://www.booking.com/hotel/cy/remarkable-2-bed-house-in-poli-crysochous-poli-crysochous.html",
     "source_domain": "booking.com",
     "sea_view": null,
     "mountain_view": null,
@@ -1321,8 +1271,8 @@
     "description_snippet": null,
     "contact": "Kontakt über Booking.com",
     "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:20.892455+00:00"
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:26.519359+00:00"
   },
   {
     "id": "sorelia-latchi-villas-3-merope-irena-polis-latchi",
@@ -1346,8 +1296,33 @@
     "description_snippet": null,
     "contact": "Kontakt über Booking.com",
     "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:20.920396+00:00"
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:26.534599+00:00"
+  },
+  {
+    "id": "villa-lachi-polis-latchi",
+    "name": "Villa Lachi",
+    "region": "Polis / Latchi",
+    "lat": null,
+    "lng": null,
+    "source_url": "https://www.booking.com/hotel/cy/villa-lachi.html",
+    "source_domain": "booking.com",
+    "sea_view": null,
+    "mountain_view": null,
+    "max_guests": null,
+    "bedrooms": null,
+    "type": "rent",
+    "event_policy": "unknown",
+    "event_policy_details": null,
+    "curfew": null,
+    "price_range": null,
+    "price_per_night_eur": null,
+    "features": [],
+    "description_snippet": null,
+    "contact": "Kontakt über Booking.com",
+    "image_url": null,
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:26.551661+00:00"
   },
   {
     "id": "spitaki-polis-latchi",
@@ -1371,8 +1346,8 @@
     "description_snippet": null,
     "contact": "Kontakt über Booking.com",
     "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:20.950198+00:00"
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:26.568220+00:00"
   },
   {
     "id": "the-goat-house-polis-latchi",
@@ -1396,8 +1371,8 @@
     "description_snippet": null,
     "contact": "Kontakt über Booking.com",
     "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:20.972654+00:00"
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:26.583716+00:00"
   },
   {
     "id": "cyprus-townhouse-pool-patio-aircon-free-parking-polis-latchi",
@@ -1421,8 +1396,8 @@
     "description_snippet": null,
     "contact": "Kontakt über Booking.com",
     "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:20.992362+00:00"
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:26.598787+00:00"
   },
   {
     "id": "villa-palm-1-polis-latchi",
@@ -1446,8 +1421,8 @@
     "description_snippet": null,
     "contact": "Kontakt über Booking.com",
     "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:21.014035+00:00"
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:26.615015+00:00"
   },
   {
     "id": "seaview-villa-mia-polis-latchi",
@@ -1471,8 +1446,8 @@
     "description_snippet": null,
     "contact": "Kontakt über Booking.com",
     "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:21.035505+00:00"
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:26.629892+00:00"
   },
   {
     "id": "villa-palm-3-polis-latchi",
@@ -1496,33 +1471,8 @@
     "description_snippet": null,
     "contact": "Kontakt über Booking.com",
     "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:21.060254+00:00"
-  },
-  {
-    "id": "eros-maisonette-in-latchi-area-just-700-meters-or-one-minute-drive-from-polis-municipal-beach-polis-latchi",
-    "name": "EROS Maisonette in Latchi area just 700 meters or one-minute drive from Polis Municipal Beach",
-    "region": "Polis / Latchi",
-    "lat": null,
-    "lng": null,
-    "source_url": "https://www.booking.com/hotel/cy/eros-maisonette-in-latchi-area-just-900-meters-or-one-minute-drive-from-polis-mu.html",
-    "source_domain": "booking.com",
-    "sea_view": null,
-    "mountain_view": null,
-    "max_guests": null,
-    "bedrooms": null,
-    "type": "rent",
-    "event_policy": "unknown",
-    "event_policy_details": null,
-    "curfew": null,
-    "price_range": null,
-    "price_per_night_eur": null,
-    "features": [],
-    "description_snippet": null,
-    "contact": "Kontakt über Booking.com",
-    "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:21.082377+00:00"
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:26.644688+00:00"
   },
   {
     "id": "gorgeous-home-in-neo-chorio-with-wifi-polis-latchi",
@@ -1546,8 +1496,33 @@
     "description_snippet": null,
     "contact": "Kontakt über Booking.com",
     "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:21.103986+00:00"
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:26.661429+00:00"
+  },
+  {
+    "id": "eros-maisonette-in-latchi-area-just-700-meters-or-one-minute-drive-from-polis-municipal-beach-polis-latchi",
+    "name": "EROS Maisonette in Latchi area just 700 meters or one-minute drive from Polis Municipal Beach",
+    "region": "Polis / Latchi",
+    "lat": null,
+    "lng": null,
+    "source_url": "https://www.booking.com/hotel/cy/eros-maisonette-in-latchi-area-just-900-meters-or-one-minute-drive-from-polis-mu.html",
+    "source_domain": "booking.com",
+    "sea_view": null,
+    "mountain_view": null,
+    "max_guests": null,
+    "bedrooms": null,
+    "type": "rent",
+    "event_policy": "unknown",
+    "event_policy_details": null,
+    "curfew": null,
+    "price_range": null,
+    "price_per_night_eur": null,
+    "features": [],
+    "description_snippet": null,
+    "contact": "Kontakt über Booking.com",
+    "image_url": null,
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:26.681865+00:00"
   },
   {
     "id": "stay-lumiere-house-limassol",
@@ -1571,33 +1546,8 @@
     "description_snippet": null,
     "contact": "Kontakt über Booking.com",
     "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:26.278376+00:00"
-  },
-  {
-    "id": "atelier-residences-by-sweet-keys-limassol",
-    "name": "Atelier Residences by Sweet Keys",
-    "region": "Limassol",
-    "lat": null,
-    "lng": null,
-    "source_url": "https://www.booking.com/hotel/cy/atelier-residences-by-sweet-keys.html",
-    "source_domain": "booking.com",
-    "sea_view": null,
-    "mountain_view": null,
-    "max_guests": null,
-    "bedrooms": null,
-    "type": "rent",
-    "event_policy": "unknown",
-    "event_policy_details": null,
-    "curfew": null,
-    "price_range": null,
-    "price_per_night_eur": null,
-    "features": [],
-    "description_snippet": null,
-    "contact": "Kontakt über Booking.com",
-    "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:26.314714+00:00"
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:31.956435+00:00"
   },
   {
     "id": "stasinou-52-limassol",
@@ -1621,16 +1571,16 @@
     "description_snippet": null,
     "contact": "Kontakt über Booking.com",
     "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:26.347983+00:00"
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:31.977815+00:00"
   },
   {
-    "id": "two-bedroom-house-in-town-center-by-sweet-keys-limassol",
-    "name": "Two Bedroom House In Town Center by Sweet Keys",
+    "id": "atelier-residences-by-sweet-keys-limassol",
+    "name": "Atelier Residences by Sweet Keys",
     "region": "Limassol",
     "lat": null,
     "lng": null,
-    "source_url": "https://www.booking.com/hotel/cy/two-bedroom-house-in-town-center-by-sweet-keys.html",
+    "source_url": "https://www.booking.com/hotel/cy/atelier-residences-by-sweet-keys.html",
     "source_domain": "booking.com",
     "sea_view": null,
     "mountain_view": null,
@@ -1646,8 +1596,8 @@
     "description_snippet": null,
     "contact": "Kontakt über Booking.com",
     "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:26.442505+00:00"
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:32.001777+00:00"
   },
   {
     "id": "beach-walk-central-cool-cute-convenient-limassol",
@@ -1671,8 +1621,33 @@
     "description_snippet": null,
     "contact": "Kontakt über Booking.com",
     "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:26.467111+00:00"
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:32.037355+00:00"
+  },
+  {
+    "id": "two-bedroom-house-in-town-center-by-sweet-keys-limassol",
+    "name": "Two Bedroom House In Town Center by Sweet Keys",
+    "region": "Limassol",
+    "lat": null,
+    "lng": null,
+    "source_url": "https://www.booking.com/hotel/cy/two-bedroom-house-in-town-center-by-sweet-keys.html",
+    "source_domain": "booking.com",
+    "sea_view": null,
+    "mountain_view": null,
+    "max_guests": null,
+    "bedrooms": null,
+    "type": "rent",
+    "event_policy": "unknown",
+    "event_policy_details": null,
+    "curfew": null,
+    "price_range": null,
+    "price_per_night_eur": null,
+    "features": [],
+    "description_snippet": null,
+    "contact": "Kontakt über Booking.com",
+    "image_url": null,
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:32.067274+00:00"
   },
   {
     "id": "the-stable-limassol",
@@ -1696,33 +1671,8 @@
     "description_snippet": null,
     "contact": "Kontakt über Booking.com",
     "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:26.490373+00:00"
-  },
-  {
-    "id": "2-bedroom-house-near-the-beach-limassol",
-    "name": "2 bedroom house near the beach",
-    "region": "Limassol",
-    "lat": null,
-    "lng": null,
-    "source_url": "https://www.booking.com/hotel/cy/2-bedroom-house-near-the-beach.html",
-    "source_domain": "booking.com",
-    "sea_view": null,
-    "mountain_view": null,
-    "max_guests": null,
-    "bedrooms": null,
-    "type": "rent",
-    "event_policy": "unknown",
-    "event_policy_details": null,
-    "curfew": null,
-    "price_range": null,
-    "price_per_night_eur": null,
-    "features": [],
-    "description_snippet": null,
-    "contact": "Kontakt über Booking.com",
-    "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:26.509719+00:00"
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:32.096097+00:00"
   },
   {
     "id": "maroulla-s-modern-spacious-family-home-near-the-beach-limassol",
@@ -1746,16 +1696,16 @@
     "description_snippet": null,
     "contact": "Kontakt über Booking.com",
     "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:26.531715+00:00"
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:32.121390+00:00"
   },
   {
-    "id": "despoina-town-house-limassol",
-    "name": "Despoina Town House",
+    "id": "2-bedroom-house-near-the-beach-limassol",
+    "name": "2 bedroom house near the beach",
     "region": "Limassol",
     "lat": null,
     "lng": null,
-    "source_url": "https://www.booking.com/hotel/cy/despoina-town-house.html",
+    "source_url": "https://www.booking.com/hotel/cy/2-bedroom-house-near-the-beach.html",
     "source_domain": "booking.com",
     "sea_view": null,
     "mountain_view": null,
@@ -1771,33 +1721,8 @@
     "description_snippet": null,
     "contact": "Kontakt über Booking.com",
     "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:26.557577+00:00"
-  },
-  {
-    "id": "cozy-house-city-center-in-limassol-limassol",
-    "name": "Cozy house city center in Limassol",
-    "region": "Limassol",
-    "lat": null,
-    "lng": null,
-    "source_url": "https://www.booking.com/hotel/cy/cozy-house-city-center-in-limassol.html",
-    "source_domain": "booking.com",
-    "sea_view": null,
-    "mountain_view": null,
-    "max_guests": null,
-    "bedrooms": null,
-    "type": "rent",
-    "event_policy": "unknown",
-    "event_policy_details": null,
-    "curfew": null,
-    "price_range": null,
-    "price_per_night_eur": null,
-    "features": [],
-    "description_snippet": null,
-    "contact": "Kontakt über Booking.com",
-    "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:26.578323+00:00"
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:32.142796+00:00"
   },
   {
     "id": "niko-s-modern-family-home-near-the-beach-limassol",
@@ -1821,16 +1746,16 @@
     "description_snippet": null,
     "contact": "Kontakt über Booking.com",
     "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:26.603373+00:00"
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:32.168205+00:00"
   },
   {
-    "id": "pavlos-place-blue-haven-limassol",
-    "name": "Pavlos Place - Blue Haven",
+    "id": "cozy-house-city-center-in-limassol-limassol",
+    "name": "Cozy house city center in Limassol",
     "region": "Limassol",
     "lat": null,
     "lng": null,
-    "source_url": "https://www.booking.com/hotel/cy/pavlos-place-blue-haven.html",
+    "source_url": "https://www.booking.com/hotel/cy/cozy-house-city-center-in-limassol.html",
     "source_domain": "booking.com",
     "sea_view": null,
     "mountain_view": null,
@@ -1846,8 +1771,8 @@
     "description_snippet": null,
     "contact": "Kontakt über Booking.com",
     "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:26.624689+00:00"
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:32.190035+00:00"
   },
   {
     "id": "trendy-loft-apartment-limassol",
@@ -1871,16 +1796,16 @@
     "description_snippet": null,
     "contact": "Kontakt über Booking.com",
     "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:26.647119+00:00"
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:32.209105+00:00"
   },
   {
-    "id": "alkeou-holiday-home-limassol",
-    "name": "Alkeou Holiday Home",
+    "id": "pavlos-place-blue-haven-limassol",
+    "name": "Pavlos Place - Blue Haven",
     "region": "Limassol",
     "lat": null,
     "lng": null,
-    "source_url": "https://www.booking.com/hotel/cy/alkeou-holiday-home.html",
+    "source_url": "https://www.booking.com/hotel/cy/pavlos-place-blue-haven.html",
     "source_domain": "booking.com",
     "sea_view": null,
     "mountain_view": null,
@@ -1896,8 +1821,33 @@
     "description_snippet": null,
     "contact": "Kontakt über Booking.com",
     "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:26.671093+00:00"
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:32.232479+00:00"
+  },
+  {
+    "id": "despoina-town-house-limassol",
+    "name": "Despoina Town House",
+    "region": "Limassol",
+    "lat": null,
+    "lng": null,
+    "source_url": "https://www.booking.com/hotel/cy/despoina-town-house.html",
+    "source_domain": "booking.com",
+    "sea_view": null,
+    "mountain_view": null,
+    "max_guests": null,
+    "bedrooms": null,
+    "type": "rent",
+    "event_policy": "unknown",
+    "event_policy_details": null,
+    "curfew": null,
+    "price_range": null,
+    "price_per_night_eur": null,
+    "features": [],
+    "description_snippet": null,
+    "contact": "Kontakt über Booking.com",
+    "image_url": null,
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:32.257192+00:00"
   },
   {
     "id": "st-george-s-country-retreat-limassol",
@@ -1921,8 +1871,8 @@
     "description_snippet": null,
     "contact": "Kontakt über Booking.com",
     "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:26.697829+00:00"
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:32.276899+00:00"
   },
   {
     "id": "calypso-historic-village-house-limassol",
@@ -1946,16 +1896,16 @@
     "description_snippet": null,
     "contact": "Kontakt über Booking.com",
     "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:26.719854+00:00"
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:32.298906+00:00"
   },
   {
-    "id": "sea-view-beach-house-with-pool-limassol",
-    "name": "Sea view Beach House with Pool",
+    "id": "alkeou-holiday-home-limassol",
+    "name": "Alkeou Holiday Home",
     "region": "Limassol",
     "lat": null,
     "lng": null,
-    "source_url": "https://www.booking.com/hotel/cy/sea-view-beach-house.html",
+    "source_url": "https://www.booking.com/hotel/cy/alkeou-holiday-home.html",
     "source_domain": "booking.com",
     "sea_view": null,
     "mountain_view": null,
@@ -1971,58 +1921,8 @@
     "description_snippet": null,
     "contact": "Kontakt über Booking.com",
     "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:26.740716+00:00"
-  },
-  {
-    "id": "fig-olive-luxury-one-bedroom-boutique-in-pachna-limassol",
-    "name": "Fig&Olive Luxury one bedroom boutique in Pachna",
-    "region": "Limassol",
-    "lat": null,
-    "lng": null,
-    "source_url": "https://www.booking.com/hotel/cy/fig-amp-olive-luxury-one-bedroom-boutique-in-pachna.html",
-    "source_domain": "booking.com",
-    "sea_view": null,
-    "mountain_view": null,
-    "max_guests": null,
-    "bedrooms": null,
-    "type": "rent",
-    "event_policy": "unknown",
-    "event_policy_details": null,
-    "curfew": null,
-    "price_range": null,
-    "price_per_night_eur": null,
-    "features": [],
-    "description_snippet": null,
-    "contact": "Kontakt über Booking.com",
-    "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:26.764879+00:00"
-  },
-  {
-    "id": "milea-mansion-limassol",
-    "name": "Milea Mansion",
-    "region": "Limassol",
-    "lat": null,
-    "lng": null,
-    "source_url": "https://www.booking.com/hotel/cy/milea-mansion-limassol.html",
-    "source_domain": "booking.com",
-    "sea_view": null,
-    "mountain_view": null,
-    "max_guests": null,
-    "bedrooms": null,
-    "type": "rent",
-    "event_policy": "unknown",
-    "event_policy_details": null,
-    "curfew": null,
-    "price_range": null,
-    "price_per_night_eur": null,
-    "features": [],
-    "description_snippet": null,
-    "contact": "Kontakt über Booking.com",
-    "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:26.785106+00:00"
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:32.318260+00:00"
   },
   {
     "id": "stay-downtown-retreat-limassol",
@@ -2046,16 +1946,16 @@
     "description_snippet": null,
     "contact": "Kontakt über Booking.com",
     "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:26.801302+00:00"
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:32.336995+00:00"
   },
   {
-    "id": "charming-house-in-the-heart-of-limassol-limassol",
-    "name": "Charming House in the Heart of Limassol",
+    "id": "fig-olive-luxury-one-bedroom-boutique-in-pachna-limassol",
+    "name": "Fig&Olive Luxury one bedroom boutique in Pachna",
     "region": "Limassol",
     "lat": null,
     "lng": null,
-    "source_url": "https://www.booking.com/hotel/cy/charming-house-in-the-heart-of-limassol.html",
+    "source_url": "https://www.booking.com/hotel/cy/fig-amp-olive-luxury-one-bedroom-boutique-in-pachna.html",
     "source_domain": "booking.com",
     "sea_view": null,
     "mountain_view": null,
@@ -2071,8 +1971,8 @@
     "description_snippet": null,
     "contact": "Kontakt über Booking.com",
     "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:26.817541+00:00"
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:32.357464+00:00"
   },
   {
     "id": "salty-sunset-holiday-home-limassol",
@@ -2096,33 +1996,8 @@
     "description_snippet": null,
     "contact": "Kontakt über Booking.com",
     "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:26.832857+00:00"
-  },
-  {
-    "id": "modern-townhouse-with-pool-ten-minutes-limassol-center-limassol",
-    "name": "Modern Townhouse with pool ten minutes Limassol Center",
-    "region": "Limassol",
-    "lat": null,
-    "lng": null,
-    "source_url": "https://www.booking.com/hotel/cy/luxury-townhouse-minutes-from-beach-and-limassol-center.html",
-    "source_domain": "booking.com",
-    "sea_view": null,
-    "mountain_view": null,
-    "max_guests": null,
-    "bedrooms": null,
-    "type": "rent",
-    "event_policy": "unknown",
-    "event_policy_details": null,
-    "curfew": null,
-    "price_range": null,
-    "price_per_night_eur": null,
-    "features": [],
-    "description_snippet": null,
-    "contact": "Kontakt über Booking.com",
-    "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:26.849332+00:00"
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:32.377142+00:00"
   },
   {
     "id": "nikola-s-house-limassol",
@@ -2146,8 +2021,83 @@
     "description_snippet": null,
     "contact": "Kontakt über Booking.com",
     "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:26.865194+00:00"
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:32.399329+00:00"
+  },
+  {
+    "id": "charming-house-in-the-heart-of-limassol-limassol",
+    "name": "Charming House in the Heart of Limassol",
+    "region": "Limassol",
+    "lat": null,
+    "lng": null,
+    "source_url": "https://www.booking.com/hotel/cy/charming-house-in-the-heart-of-limassol.html",
+    "source_domain": "booking.com",
+    "sea_view": null,
+    "mountain_view": null,
+    "max_guests": null,
+    "bedrooms": null,
+    "type": "rent",
+    "event_policy": "unknown",
+    "event_policy_details": null,
+    "curfew": null,
+    "price_range": null,
+    "price_per_night_eur": null,
+    "features": [],
+    "description_snippet": null,
+    "contact": "Kontakt über Booking.com",
+    "image_url": null,
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:32.420833+00:00"
+  },
+  {
+    "id": "milea-mansion-limassol",
+    "name": "Milea Mansion",
+    "region": "Limassol",
+    "lat": null,
+    "lng": null,
+    "source_url": "https://www.booking.com/hotel/cy/milea-mansion-limassol.html",
+    "source_domain": "booking.com",
+    "sea_view": null,
+    "mountain_view": null,
+    "max_guests": null,
+    "bedrooms": null,
+    "type": "rent",
+    "event_policy": "unknown",
+    "event_policy_details": null,
+    "curfew": null,
+    "price_range": null,
+    "price_per_night_eur": null,
+    "features": [],
+    "description_snippet": null,
+    "contact": "Kontakt über Booking.com",
+    "image_url": null,
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:32.440620+00:00"
+  },
+  {
+    "id": "modern-townhouse-with-pool-ten-minutes-limassol-center-limassol",
+    "name": "Modern Townhouse with pool ten minutes Limassol Center",
+    "region": "Limassol",
+    "lat": null,
+    "lng": null,
+    "source_url": "https://www.booking.com/hotel/cy/luxury-townhouse-minutes-from-beach-and-limassol-center.html",
+    "source_domain": "booking.com",
+    "sea_view": null,
+    "mountain_view": null,
+    "max_guests": null,
+    "bedrooms": null,
+    "type": "rent",
+    "event_policy": "unknown",
+    "event_policy_details": null,
+    "curfew": null,
+    "price_range": null,
+    "price_per_night_eur": null,
+    "features": [],
+    "description_snippet": null,
+    "contact": "Kontakt über Booking.com",
+    "image_url": null,
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:32.460993+00:00"
   },
   {
     "id": "fineline-villa-limassol",
@@ -2171,8 +2121,33 @@
     "description_snippet": null,
     "contact": "Kontakt über Booking.com",
     "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:26.880995+00:00"
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:32.479886+00:00"
+  },
+  {
+    "id": "andros-residence-limassol",
+    "name": "Andros Residence",
+    "region": "Limassol",
+    "lat": null,
+    "lng": null,
+    "source_url": "https://www.booking.com/hotel/cy/andros-residence.html",
+    "source_domain": "booking.com",
+    "sea_view": null,
+    "mountain_view": null,
+    "max_guests": null,
+    "bedrooms": null,
+    "type": "rent",
+    "event_policy": "unknown",
+    "event_policy_details": null,
+    "curfew": null,
+    "price_range": null,
+    "price_per_night_eur": null,
+    "features": [],
+    "description_snippet": null,
+    "contact": "Kontakt über Booking.com",
+    "image_url": null,
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:32.499628+00:00"
   },
   {
     "id": "list-your-property-paphos",
@@ -2196,8 +2171,8 @@
     "description_snippet": null,
     "contact": "Kontakt über clickstay.com",
     "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:30.786501+00:00"
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:36.312012+00:00"
   },
   {
     "id": "bookings-paphos",
@@ -2221,8 +2196,8 @@
     "description_snippet": null,
     "contact": "Kontakt über clickstay.com",
     "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:30.796208+00:00"
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:36.330429+00:00"
   },
   {
     "id": "inbox-paphos",
@@ -2246,8 +2221,8 @@
     "description_snippet": null,
     "contact": "Kontakt über clickstay.com",
     "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:30.801120+00:00"
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:36.336471+00:00"
   },
   {
     "id": "wishlists-paphos",
@@ -2271,8 +2246,8 @@
     "description_snippet": null,
     "contact": "Kontakt über clickstay.com",
     "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:30.805767+00:00"
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:36.345086+00:00"
   },
   {
     "id": "my-details-paphos",
@@ -2296,8 +2271,8 @@
     "description_snippet": null,
     "contact": "Kontakt über clickstay.com",
     "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:30.810560+00:00"
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:36.353352+00:00"
   },
   {
     "id": "how-it-works-paphos",
@@ -2321,8 +2296,8 @@
     "description_snippet": null,
     "contact": "Kontakt über clickstay.com",
     "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:30.828460+00:00"
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:36.375664+00:00"
   },
   {
     "id": "clickstay-reviews-paphos",
@@ -2346,8 +2321,8 @@
     "description_snippet": null,
     "contact": "Kontakt über clickstay.com",
     "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:30.833899+00:00"
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:36.382249+00:00"
   },
   {
     "id": "search-holiday-rentals-paphos",
@@ -2371,8 +2346,8 @@
     "description_snippet": null,
     "contact": "Kontakt über clickstay.com",
     "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:30.838563+00:00"
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:36.388629+00:00"
   },
   {
     "id": "cyprus-paphos",
@@ -2396,8 +2371,8 @@
     "description_snippet": null,
     "contact": "Kontakt über clickstay.com",
     "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:30.845968+00:00"
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:36.398162+00:00"
   },
   {
     "id": "southern-cyprus-paphos",
@@ -2421,8 +2396,8 @@
     "description_snippet": null,
     "contact": "Kontakt über clickstay.com",
     "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:30.850651+00:00"
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:36.404042+00:00"
   },
   {
     "id": "coral-bay-43-villas-paphos",
@@ -2446,8 +2421,8 @@
     "description_snippet": null,
     "contact": "Kontakt über clickstay.com",
     "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:30.855759+00:00"
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:36.411081+00:00"
   },
   {
     "id": "aphrodite-hills-10-villas-and-apartments-paphos",
@@ -2471,12 +2446,12 @@
     "description_snippet": null,
     "contact": "Kontakt über clickstay.com",
     "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:30.860776+00:00"
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:36.417269+00:00"
   },
   {
-    "id": "latchi-27-villas-paphos",
-    "name": "Latchi\n27 villas",
+    "id": "latchi-26-villas-paphos",
+    "name": "Latchi\n26 villas",
     "region": "Paphos",
     "lat": null,
     "lng": null,
@@ -2496,8 +2471,8 @@
     "description_snippet": null,
     "contact": "Kontakt über clickstay.com",
     "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:30.865553+00:00"
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:36.423364+00:00"
   },
   {
     "id": "pegia-13-villas-paphos",
@@ -2521,8 +2496,8 @@
     "description_snippet": null,
     "contact": "Kontakt über clickstay.com",
     "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:30.870361+00:00"
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:36.429842+00:00"
   },
   {
     "id": "peyia-14-villas-paphos",
@@ -2546,8 +2521,8 @@
     "description_snippet": null,
     "contact": "Kontakt über clickstay.com",
     "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:30.875169+00:00"
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:36.436076+00:00"
   },
   {
     "id": "argaka-32-villas-paphos",
@@ -2571,8 +2546,8 @@
     "description_snippet": null,
     "contact": "Kontakt über clickstay.com",
     "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:30.885338+00:00"
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:36.445294+00:00"
   },
   {
     "id": "polis-chrysochous-31-villas-paphos",
@@ -2596,8 +2571,8 @@
     "description_snippet": null,
     "contact": "Kontakt über clickstay.com",
     "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:30.889948+00:00"
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:36.451255+00:00"
   },
   {
     "id": "kato-paphos-31-villas-and-apartments-paphos",
@@ -2621,8 +2596,8 @@
     "description_snippet": null,
     "contact": "Kontakt über clickstay.com",
     "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:30.894866+00:00"
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:36.457386+00:00"
   },
   {
     "id": "kissonerga-6-villas-paphos",
@@ -2646,8 +2621,8 @@
     "description_snippet": null,
     "contact": "Kontakt über clickstay.com",
     "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:30.909621+00:00"
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:36.482305+00:00"
   },
   {
     "id": "tala-6-villas-paphos",
@@ -2671,8 +2646,8 @@
     "description_snippet": null,
     "contact": "Kontakt über clickstay.com",
     "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:30.914341+00:00"
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:36.488902+00:00"
   },
   {
     "id": "chlorakas-1-villa-paphos",
@@ -2696,8 +2671,8 @@
     "description_snippet": null,
     "contact": "Kontakt über clickstay.com",
     "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:30.919105+00:00"
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:36.495072+00:00"
   },
   {
     "id": "agios-georgios-1-villa-paphos",
@@ -2721,8 +2696,8 @@
     "description_snippet": null,
     "contact": "Kontakt über clickstay.com",
     "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:30.923775+00:00"
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:36.501460+00:00"
   },
   {
     "id": "owners-direct-55-holiday-lettings-paphos",
@@ -2746,8 +2721,8 @@
     "description_snippet": null,
     "contact": "Kontakt über clickstay.com",
     "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:30.928951+00:00"
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:36.507803+00:00"
   },
   {
     "id": "lowest-price-pledge-owners-have-the-lowest-prices-on-clickstay-paphos",
@@ -2771,8 +2746,8 @@
     "description_snippet": null,
     "contact": "Kontakt über clickstay.com",
     "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:30.938614+00:00"
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:36.518511+00:00"
   },
   {
     "id": "sitemap-paphos",
@@ -2796,7 +2771,7 @@
     "description_snippet": null,
     "contact": "Kontakt über clickstay.com",
     "image_url": null,
-    "last_verified": "2026-08-17",
-    "last_scraped": "2026-08-17T06:58:31.047018+00:00"
+    "last_verified": "2026-08-24",
+    "last_scraped": "2026-08-24T07:01:36.646775+00:00"
   }
 ]
